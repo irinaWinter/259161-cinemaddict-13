@@ -1,7 +1,7 @@
 # Проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Коржева](https://up.htmlacademy.ru/ecmascript/13/user/259161).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Приходько](https://htmlacademy.ru/profile/id1012525).
 
 ---
 
